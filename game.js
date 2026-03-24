@@ -1,3 +1,4 @@
+console.log("game.js is running!");
 // =========================
 // 3D FPS Starter Game
 // =========================
